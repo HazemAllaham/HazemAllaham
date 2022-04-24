@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hazem Allaha,</h1>
+<h1 align="center">Hi 👋, I'm Hazem Allaham</h1>
 <h3 align="center">A passionate Android developer from Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazemallaham&label=Profile%20views&color=0e75b6&style=flat" alt="hazemallaham" /> </p>
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HazemAllaham](https://github.com/HazemAllaham)
 
-- 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/hazem-allaham-1662b0214/?msgControlName=reply_to_sender&msgConversationId=2-ZGNkMGFlOTctMDFhZi00NjY5LTgzMzctMjRjMzNjMDY0YjI1XzAxMw%3D%3D&msgOverlay=true](https://www.linkedin.com/in/hazem-allaham-1662b0214/?msgControlName=reply_to_sender&msgConversationId=2-ZGNkMGFlOTctMDFhZi00NjY5LTgzMzctMjRjMzNjMDY0YjI1XzAxMw%3D%3D&msgOverlay=true)
+- 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/hazem-allaham-1662b0214](https://www.linkedin.com/in/hazem-allaham-1662b0214)
 
 - 💬 Ask me about **Android , Kotlin , Java ,Competitive Programming**
 
@@ -25,6 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/hazem-allaham-1662b0214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem-allaham-1662b0214" height="30" width="40" /></a>
 <a href="https://fb.com/hazem.allaham.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hazem.allaham.50" height="30" width="40" /></a>
 <a href="https://instagram.com/hazem_allaham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazem_allaham" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hazemwork2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hazemwork2" height="30" width="40" /></a>
