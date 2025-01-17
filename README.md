@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hazemwork2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ts7PJg4m6G37v4dPnYmPixgX_JWfAvIP/view?usp=sharing](https://drive.google.com/file/d/1Ts7PJg4m6G37v4dPnYmPixgX_JWfAvIP/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ts7PJg4m6G37v4dPnYmPixgX_JWfAvIP/view?usp=sharing](https://drive.google.com/file/d/1mAjzCbz-g7Z2o5XRM65JIp3FD8ll6o-r/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Ready For your Challenge :)**
 
