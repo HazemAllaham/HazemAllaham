@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemallaham" alt="hazemallaham" /></a> </p>
 
-- 🔭 I’m currently working on [Upwork as a Freelancer](https://www.upwork.com/fl/~01c9a40ed9b2db88f7)
+- 🔭 I’m currently working on [Upwork as a Freelancer]([https://www.upwork.com/fl/~01c9a40ed9b2db88f7](https://www.upwork.com/freelancers/~01c9a40ed9b2db88f7))
 
 - 🌱 I’m currently learning **System Design & Competitive Programming**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HazemAllaham](https://github.com/HazemAllaham)
 
-- 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/hazem-allaham-1662b0214](https://www.linkedin.com/in/hazem-allaham-1662b0214)
+- 📝 I regularly write articles on LinkedIn [https://www.linkedin.com/in/hazem-allaham-1662b0214]([https://www.linkedin.com/in/hazem-allaham-1662b0214](https://www.linkedin.com/in/hazem-allaham/))
 
 - 💬 Ask me about **Android , Kotlin , Java ,Competitive Programming**
 
